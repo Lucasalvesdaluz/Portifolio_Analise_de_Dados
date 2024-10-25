@@ -1,4 +1,4 @@
-#**Portfólio de Análise de Dados** 
+# **Portfólio de Análise de Dados** 
 Bem-vindo ao meu portfólio! Sou Lucas Alves, um entusiasta da análise de dados em busca de oportunidades para aplicar minhas habilidades em projetos reais e gerar valor para empresas.
 
 #**Sobre Mim**
