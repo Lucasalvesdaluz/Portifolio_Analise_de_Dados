@@ -1,4 +1,4 @@
-# *Apresentação** 
+# **Apresentação** 
 Bem-vindo ao meu portfólio! Sou Lucas Alves, um entusiasta da análise de dados em busca de oportunidades para aplicar minhas habilidades em projetos reais e gerar valor para empresas.
 
 Sou estudante de Big Data e Inteligência Analítica e tenho experiência prática com ferramentas essenciais para análise e manipulação de dados, tais como Python com as bibliotecas pandas e numpy, SQL e Google Sheets.
