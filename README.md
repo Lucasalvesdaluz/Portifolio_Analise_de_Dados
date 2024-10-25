@@ -13,4 +13,4 @@ Neste portfólio, apresento meus principais projetos, com foco nas seguintes ár
 
 **Visualização de Dados:** Exploração e apresentação dos dados com técnicas de visualização para insights acessíveis.
 
-Estou sempre ampliando minhas habilidades e explorando novas tecnologias para expandir meu conhecimento. Fique à vontade para explorar, e se tiver alguma dúvida ou proposta, será um prazer conversar!
+Fique à vontade para explorar, e se tiver alguma dúvida ou proposta, você pode entrar em contato comigo através do (81) 99497-8464.
