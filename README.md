@@ -18,5 +18,6 @@ Desenvolvimento de bancos de dados baseados no Modelo Entidade-Relacionamento (M
 💡 Fique à vontade para explorar! Caso tenha dúvidas ou propostas, você pode me encontrar nas redes sociais:
 
 📸 Instagram: [@lucas_alves_luz](https://www.instagram.com/lucas_alves_luz/)
- 💼 LinkedIn: [Link](https://www.instagram.com/lucas_alves_luz/)
+
+💼 LinkedIn: [Lucas Alves](https://www.instagram.com/lucas_alves_luz/)
 
