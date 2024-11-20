@@ -1,15 +1,21 @@
 # **Apresentação** 
-Bem-vindo ao meu portfólio! Sou Lucas Alves, um entusiasta da análise de dados em busca de oportunidades para aplicar minhas habilidades em projetos reais e gerar valor para empresas.
+👋 Bem-vindo ao meu portfólio! Sou Lucas Alves, um apaixonado por análise de dados, em busca de oportunidades para aplicar minhas habilidades em projetos reais e gerar valor para empresas. 🚀
 
-Sou estudante de Big Data e Inteligência Analítica e tenho experiência prática com ferramentas essenciais para análise e manipulação de dados, tais como Python com as bibliotecas pandas e numpy, SQL e Google Sheets.
+Atualmente, sou estudante de Big Data e Inteligência Analítica, com experiência prática em ferramentas essenciais para análise e manipulação de dados, como Python (usando bibliotecas como Pandas e NumPy), SQL e Google Sheets.
 
-# **O que você vai encontrar aqui**
-Neste portfólio, apresento meus principais projetos, com foco nas seguintes áreas:
+#**O que você vai encontrar aqui**
+Neste portfólio, apresento meus projetos organizados nas seguintes categorias:
 
-**Manipulação e Limpeza de Dados:** Utilizando pandas e numpy para garantir a integridade e preparação dos dados.
+📊 **Análise de Dados**
+Exploração e limpeza de dados, identificação de padrões, tendências e extração de insights com o uso de bibliotecas como Pandas, NumPy, Matplotlib e Seaborn no Python.
 
-**Exploração de Dados:** Investigação de padrões, tendências e insights iniciais para entender o potencial dos dados antes das análises detalhadas.
+🎨 **Visualização de Dados**
+Transformação de dados em insights visuais acessíveis, utilizando técnicas de DataViz. Os dashboards apresentados aqui foram desenvolvidos principalmente com o Google Looker Studio.
 
-**Visualização de Dados:** Exploração e apresentação dos dados com técnicas de visualização para insights acessíveis.
+📂 **Modelagem de Bancos de Dados**
+Desenvolvimento de bancos de dados baseados no Modelo Entidade-Relacionamento (MER), visando a estruturação eficiente de dados para análise e manipulação em sistemas relacionais.
 
-Fique à vontade para explorar, e se tiver alguma dúvida ou proposta, você pode entrar em contato comigo através do (81) 99497-8464.
+💡 Fique à vontade para explorar! Caso tenha dúvidas ou propostas, você pode me encontrar nas redes sociais:
+📸 Instagram: [@lucas_alves_luz](https://www.instagram.com/lucas_alves_luz/)
+💼 LinkedIn: [Link](https://www.instagram.com/lucas_alves_luz/)
+
