@@ -3,7 +3,7 @@
 
 Atualmente, sou estudante de Big Data e Inteligência Analítica, com experiência prática em ferramentas essenciais para análise e manipulação de dados, como Python (usando bibliotecas como Pandas e NumPy), SQL e Google Sheets.
 
-#**O que você vai encontrar aqui**
+# **O que você vai encontrar aqui**
 Neste portfólio, apresento meus projetos organizados nas seguintes categorias:
 
 📊 **Análise de Dados**
@@ -17,5 +17,6 @@ Desenvolvimento de bancos de dados baseados no Modelo Entidade-Relacionamento (M
 
 💡 Fique à vontade para explorar! Caso tenha dúvidas ou propostas, você pode me encontrar nas redes sociais:
 📸 Instagram: [@lucas_alves_luz](https://www.instagram.com/lucas_alves_luz/)
+
 💼 LinkedIn: [Link](https://www.instagram.com/lucas_alves_luz/)
 
