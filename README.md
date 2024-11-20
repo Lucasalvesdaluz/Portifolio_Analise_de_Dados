@@ -16,6 +16,7 @@ Transformação de dados em insights visuais acessíveis, utilizando técnicas d
 Desenvolvimento de bancos de dados baseados no Modelo Entidade-Relacionamento (MER), visando a estruturação eficiente de dados para análise e manipulação em sistemas relacionais.
 
 💡 Fique à vontade para explorar! Caso tenha dúvidas ou propostas, você pode me encontrar nas redes sociais:
+
 📸 Instagram: [@lucas_alves_luz](https://www.instagram.com/lucas_alves_luz/)
 
 💼 LinkedIn: [Link](https://www.instagram.com/lucas_alves_luz/)
