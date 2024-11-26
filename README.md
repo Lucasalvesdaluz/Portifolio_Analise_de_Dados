@@ -10,9 +10,9 @@ Neste portfólio, apresento meus projetos organizados nas seguintes categorias:
 
 Exploração e limpeza de dados, identificação de padrões, tendências e extração de insights com o uso de bibliotecas como Pandas, NumPy, Matplotlib e Seaborn no Python.
 
-🎨 **Visualização de Dados**
+🎨 **Google Looker Studio**
 
-Transformação de dados em insights visuais acessíveis, utilizando técnicas de DataViz. Os dashboards apresentados aqui foram desenvolvidos principalmente com o Google Looker Studio.
+Transformação de dados em insights visuais acessíveis, utilizando técnicas de DataViz. Os dashboards apresentados aqui foram desenvolvidos com o Google Looker Studio.
 
 📂 **Modelagem de Bancos de Dados**
 
