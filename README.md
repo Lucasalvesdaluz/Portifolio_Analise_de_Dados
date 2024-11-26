@@ -22,5 +22,3 @@ Desenvolvimento de bancos de dados baseados no Modelo Entidade-Relacionamento (M
 
 📸 Instagram: [@lucas_alves_luz](https://www.instagram.com/lucas_alves_luz/)
 
-💼 LinkedIn: [Lucas Alves](https://www.instagram.com/lucas_alves_luz/)
-
