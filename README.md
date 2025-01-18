@@ -14,9 +14,9 @@ Exploração e limpeza de dados, identificação de padrões, tendências e extr
 
 Transformação de dados em insights visuais acessíveis, utilizando técnicas de DataViz. Os dashboards apresentados aqui foram desenvolvidos com o Google Looker Studio.
 
-📂 **Modelagem de Bancos de Dados**
+🚧 Automação Robótica de Processos
 
-Desenvolvimento de bancos de dados baseados no Modelo Entidade-Relacionamento (MER), visando a estruturação eficiente de dados para análise e manipulação em sistemas relacionais.
+Desenvolvimento de soluções automatizadas para tarefas repetitivas e demoradas, como manipulação de arquivos, organização de pastas e processamento em lote. Essa abordagem permite otimizar fluxos de trabalho, reduzindo o tempo gasto em atividades manuais e aumentando a eficiência das operações.ais.
 
 💡 Fique à vontade para explorar! Caso tenha dúvidas ou propostas, você pode me encontrar nas redes sociais:
 
