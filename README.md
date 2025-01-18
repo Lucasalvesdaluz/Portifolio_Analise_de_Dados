@@ -22,4 +22,4 @@ Desenvolvimento de soluções automatizadas para tarefas repetitivas e demoradas
 
 📸 [Instagram](https://www.instagram.com/lucas_alves_luz/)
 
-📸 [Linkedin](https://www.linkedin.com/in/lucas-alves-3a3a27252/)
+💼 [Linkedin](https://www.linkedin.com/in/lucas-alves-3a3a27252/)
