@@ -16,7 +16,7 @@ Transformação de dados em insights visuais acessíveis, utilizando técnicas d
 
 🚧 Automação Robótica de Processos
 
-Desenvolvimento de soluções automatizadas para tarefas repetitivas e demoradas, como manipulação de arquivos, organização de pastas e processamento em lote. Essa abordagem permite otimizar fluxos de trabalho, reduzindo o tempo gasto em atividades manuais e aumentando a eficiência das operações.ais.
+Desenvolvimento de soluções automatizadas para tarefas repetitivas e demoradas, como manipulação de arquivos, organização de pastas e processamento em lote. Essa abordagem permite otimizar fluxos de trabalho, reduzindo o tempo gasto em atividades manuais e aumentando a eficiência das operações.
 
 💡 Fique à vontade para explorar! Caso tenha dúvidas ou propostas, você pode me encontrar nas redes sociais:
 
